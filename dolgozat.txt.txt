@@ -1,0 +1,12 @@
+cd/
+cd 9.F
+cd Szécsényi Szabolcs
+cd git
+cd goga
+git clone (link)
+cd 9FDOLGOZAT
+git config --global user.name (nevem)
+git config --global user.email (email)
+git add "utasitasok.txt.txt"
+git commit -m "Szécsényi Szabolcs"
+git push
